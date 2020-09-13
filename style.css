@@ -1,0 +1,14 @@
+.box{
+    height: 80px;
+    background-color: skyblue;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+.bgc{
+    background-color: #333;
+    margin: 10px;
+    height: 300px;
+}
